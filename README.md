@@ -4,4 +4,5 @@ EFI for Mojave
 #work on hibernate.
 EFI for Catalina
 # updated to 10.15.4
-# working on hibernate and extenal display
+# Done with hibernate and extenal display
+# working on airdrop and side car
